@@ -1,6 +1,3 @@
-Certainly! Below is a revised version of the README file tailored for GitHub:
-
----
 
 # Tableau Super Store Project
 
@@ -61,6 +58,4 @@ The data for this project is sourced from the Super Store dataset, providing com
 4. **Interactivity**: The dashboards are interactive, allowing users to click on various elements for detailed insights.
 5. **Analysis**: Leverage the visualizations to gain valuable insights into sales performance, trends, and distribution across different dimensions.
 
----
 
-Feel free to further customize this README file as needed for your GitHub repository.
